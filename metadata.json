@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow Pro",
+  "description": "A robust task management dashboard featuring JWT authentication, CRUD operations, and data visualization.",
+  "requestFramePermissions": []
+}
